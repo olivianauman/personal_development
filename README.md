@@ -43,5 +43,5 @@
 #### Miscellaneous Topics:
 |Provider|Topic|Progress|
 |------|------|------|
-|Data Camp|Introduction to Git for Data Science | [Future](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|
-|Code Academy|Introduction to Blockchain | [Future](https://www.codecademy.com/learn/introduction-to-blockchain)|
+|Data Camp|Introduction to Git for Data Science | [In Progress](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|
+|Code Academy|Introduction to Blockchain | [In Progress](https://www.codecademy.com/learn/introduction-to-blockchain)|
