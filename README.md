@@ -37,7 +37,7 @@
 #### Cloud Topics:
 |Provider|Topic|Progress|
 |------|------|------|
-|AWS|Cloud Practitioner Certification | [Future](https://aws.amazon.com/certification/certified-cloud-practitioner/)|
+|AWS|Cloud Practitioner Certification | [In Progress](https://aws.amazon.com/certification/certified-cloud-practitioner/)|
 |AWS|Big Data Specialty Certification | [Future](https://aws.amazon.com/certification/certified-big-data-specialty/)|
 
 #### Miscellaneous Topics:
