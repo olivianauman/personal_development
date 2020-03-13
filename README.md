@@ -33,7 +33,7 @@
 |Provider|Topic|Progress|
 |------|------|------|
 |Data Camp|Data Visualization with Python|[Future](https://www.datacamp.com/tracks/data-visualization-with-python)|
-|Tableau Desktop Specialist|[Future](https://www.tableau.com/learn/certification/desktop-specialist)|
+|Tableau|Tableau Desktop Specialist|[Future](https://www.tableau.com/learn/certification/desktop-specialist)|
 
 #### Cloud Topics:
 |Provider|Topic|Progress|
@@ -45,5 +45,5 @@
 |Provider|Topic|Progress|
 |------|------|------|
 |Data Camp|Introduction to Git for Data Science | [In Progress](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|
-|Google Analytics Certification|[Future]|
+|Google|Google Analytics Certification|[Future]|
 
