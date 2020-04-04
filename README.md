@@ -41,9 +41,13 @@
 |AWS|Cloud Practitioner Certification | [In Progress](https://aws.amazon.com/certification/certified-cloud-practitioner/)|
 |AWS|Big Data Specialty Certification | [Future](https://aws.amazon.com/certification/certified-big-data-specialty/)|
 
+
+#### Marketing Analytics Topics:
+|Google|Google Analytics for Beginners Certification|[Completed](https://analytics.google.com/analytics/academy/certificate/zlXlOOaxRbm-kph7cK4Rsw)|
+|Google|Advanced Google Analytics Certification|[Future]|
+
+
 #### Miscellaneous Topics:
 |Provider|Topic|Progress|
 |------|------|------|
 |Data Camp|Introduction to Git for Data Science | [In Progress](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|
-|Google|Google Analytics Certification|[Future]|
-
