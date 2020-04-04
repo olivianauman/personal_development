@@ -44,6 +44,7 @@
 
 #### Marketing Analytics Topics:
 |Provider|Topic|Progress|
+|------|------|------|
 |Google|Google Analytics for Beginners Certification | [Completed](https://analytics.google.com/analytics/academy/certificate/zlXlOOaxRbm-kph7cK4Rsw)|
 |Google|Advanced Google Analytics Certification | [Future]|
 
