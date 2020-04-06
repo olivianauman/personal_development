@@ -18,7 +18,6 @@
 |Provider|Topic|Progress|
 |------|------|------|
 |Data Camp|Working with Goespatial Data in R| [Future](https://www.datacamp.com/tracks/spatial-data-with-r) |
-|Data Camp|Big Data with R| [Future](https://www.datacamp.com/tracks/big-data-with-r)|
 |Data Camp|Unsupervised Machine Learning with R| [Future](https://www.datacamp.com/tracks/unsupervised-machine-learning-with-r)|
 
 
@@ -26,7 +25,8 @@
 
 |Provider|Topic|Progress|
 |------|------|------|
-|-|- | [-]()|
+|Data Camp|Big Data with R| [Future](https://www.datacamp.com/tracks/big-data-with-r)|
+
 
 #### Data Visualization Topics:
 
